@@ -87,6 +87,7 @@ a{
   padding-bottom: var(--padding-section);
   background-color: var(--main-color);
   background: url(../برمجة.jpg);
+    background-position: top;
   background-size: cover;
   position: relative;
 }
@@ -137,7 +138,7 @@ a{
     padding: 30px;
     font-size: 20px;
     line-height: 1.6;
-    color:#ffffff59;
+    color:#f2ebeb;
     font-weight: bold;
 }
 .header .text .paragraph::before{
@@ -223,7 +224,7 @@ border-radius: 12px 0 0;
     position: absolute;
     top: -40px;
     left: 50%;
-    font-size: 20px;
+    font-size: 17px;
     transform: translateX(-50%);
     color: var(--text-color);
 }
@@ -232,7 +233,7 @@ border-radius: 12px 0 0;
     color: #b1b6befa;
     font-weight: bold;
     line-height: 1.5;
-    font-size: 15px;
+    font-size: 13px;
     padding: 5px;
 }
 /* End skills */
