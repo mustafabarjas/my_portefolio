@@ -125,7 +125,7 @@ a{
 .header .text h2{
     color: white;
     padding: 47px 35px 30px;
-    font-size: 36px;
+    font-size: 28px;
     font-weight: bold;
 }
 .paragraph{
@@ -223,7 +223,7 @@ border-radius: 12px 0 0;
     position: absolute;
     top: -40px;
     left: 50%;
-    font-size: 22px;
+    font-size: 20px;
     transform: translateX(-50%);
     color: var(--text-color);
 }
